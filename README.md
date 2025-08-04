@@ -1,6 +1,6 @@
 # 📚 Vietnamese Question Answering System using RAG
 
-This project is the final thesis of Tran Tuan Thai, focused on building a Vietnamese-language question answering (QA) system using **Retrieval-Augmented Generation (RAG)**. It combines dense document retrieval with a generative language model to provide accurate and context-aware answers.
+A Vietnamese question answering system using Retrieval-Augmented Generation (RAG) to combine dense retrieval with generative language models.
 
 ## 🎯 Project Objectives
 
@@ -38,4 +38,4 @@ This project is the final thesis of Tran Tuan Thai, focused on building a Vietna
 
 ## 📜 License
 
-This project is for academic and research purposes only.
+This project is for academic purposes. Feel free to use the code with attribution.
